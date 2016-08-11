@@ -9,6 +9,8 @@
 import UIKit
 
 @UIApplicationMain
+
+//안드로이드 Myapplication이라고 보면됨
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
